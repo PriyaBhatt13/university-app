@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## To run this project locally without installing all the npm modules
+you can use sudo npm install -g serv
+and then serve -s build this would run the application on locahost:5000
+
 ## Available Scripts
 
 In the project directory, you can run:
